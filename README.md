@@ -17,7 +17,7 @@ Each filename consists of three parts, separated by an underscore:
 - ``adverbialAnaphorList_custom_v1.txt``: TXT file containing a self-compiled list of adverbial anaphors in Spanish.
 
 ### Deprecated resources
-None.
+None
 
 ## ES_associationMeasureLists
 Association measures used in the resources:
@@ -31,7 +31,7 @@ Association measures used in the resources:
 - ``LMI-VERB-ADJ_SCAP_v1.json``: Python dictionary that presents LMI values for a series of Spanish verb-noun bigrams in a subject (``"subj"``), indirect object (``"iobj"``), direct object (``"obj"``), or oblique (``"obl"``) dependency relation.
 
 ### Deprecated resources
-None.
+None
 
 ## ES_frequencyDictionaries
 
@@ -40,7 +40,7 @@ None.
 - ``lemma-n-grams_SCAP_v1``: Python dictionary that presents absolute frequency data for the *n*-grams (with lemmas as the lexical unit) occurring in a targeted selection of SCAP corpora. The frequency data for each *n*-gram are stored under the ``"lemma_n_grams"`` key, the corpora used to calculate the frequency data are stored under the ``"corpora"`` key. *N*-grams are grouped in a nested dictionary per value of *n* (for now, only the results for *n*=5 are included) and the members of the lemma *n*-gram are separated by a pipe (e.g., ``"creer|que|ser|hora|de"``).
 
 ### Deprecated resources
-None.
+None
 
 ## ES_lexica
 
@@ -49,7 +49,7 @@ None.
 - ``tokenList_SCAP_v1.json``: Python dictionary containing the list of tokens that occur in a targeted selection of SCAP corpora. The list of tokens is stored under the ``"token_list"`` key, the SCAP corpora taken into account to determine the token list are stored under the  ``"corpora"`` key.
 
 ### Deprecated resources
-None.
+None
 
 ## ES_specificVocabularyLists
 
@@ -58,7 +58,7 @@ None.
 - ``speakingVerbList_custom_v1.text``: TXT file containing self-compiled list of Spanish speaking verbs (i.e. verbs that can introduce direct speech).
 
 ### Deprecated resources
-None.
+None
 
 ## References
 - Bouma, G. (2009). Normalized (pointwise) mutual information in collocation extraction. *Proceedings of GSCL*, *30*, 31–40
