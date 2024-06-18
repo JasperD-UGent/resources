@@ -54,8 +54,8 @@ None
 ## ES_specificVocabularyLists
 
 ### Active resources
-- ``sensitiveVocabularyList_custom_v1.txt``: TXT file containing self-compiled list of sensitive vocabulary in Spanish, categorised based on the PARSNIP approach (Gray, 2010) plus swear words as an additional category.
-- ``speakingVerbList_custom_v1.text``: TXT file containing self-compiled list of Spanish speaking verbs (i.e. verbs that can introduce direct speech).
+- ``sensitiveVocabularyList_custom_v1.txt``: TXT file containing a self-compiled list of sensitive vocabulary in Spanish, categorised based on the PARSNIP approach (Gray, 2010) plus swear words as an additional category.
+- ``speakingVerbList_custom_v1.text``: TXT file containing a self-compiled list of Spanish speaking verbs (i.e. verbs that can introduce direct speech).
 
 ### Deprecated resources
 None
