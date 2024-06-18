@@ -61,7 +61,7 @@ None
 None
 
 ## References
-- Bouma, G. (2009). Normalized (pointwise) mutual information in collocation extraction. *Proceedings of GSCL*, *30*, 31–40
+- Bouma, G. (2009). Normalized (pointwise) mutual information in collocation extraction. *Proceedings of GSCL*, *30*, 31–40.
 - Ellis, N. C. (2006). Language Acquisition as Rational Contingency Learning. *Applied Linguistics*, *27*(1), 1–24. https://doi.org/10.1093/applin/ami038
 - Gray, J. (2010). *The Construction of English*. Palgrave Macmillan UK. https://doi.org/10.1057/9780230283084
 - Gries, S. T. (2013). 50-something years of work on collocations: What is or should be next ... *International Journal of Corpus Linguistics*, *18*(1), 137–166. https://doi.org/10.1075/ijcl.18.1.09gri
