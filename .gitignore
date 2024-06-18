@@ -6,3 +6,6 @@
 
 # PyCharm folders
 /.idea
+
+# support files
+/ES_associationMeasureLists/readMe.txt
