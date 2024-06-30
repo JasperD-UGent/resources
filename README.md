@@ -45,7 +45,7 @@ None
 ## ES_lexica
 
 ### Active resources
-- ``lemmaList_SCAP_v1.json``: Python dictionary that links Spanish word pairs consisting of a token and a part of speech (POS) to a list of possible lemmas for that token-POS combination. The word pairs are stored in a nested dictionary under the ``"frequency_dictionary"`` key, the SCAP corpora taken into account to determine the lemmas are stored under the ``"corpora"`` key.
+- ``lemmaList_SCAP_v1.json``: Python dictionary that links Spanish word pairs consisting of a token and a part of speech (POS) to a list of possible lemmas for that token-POS combination. The word pairs are stored in a nested dictionary under the ``"lemma_list"`` key, the SCAP corpora taken into account to determine the lemmas are stored under the ``"corpora"`` key.
 - ``tokenList_SCAP_v1.json``: Python dictionary containing the list of tokens that occur in a targeted selection of SCAP corpora. The list of tokens is stored under the ``"token_list"`` key, the SCAP corpora taken into account to determine the token list are stored under the  ``"corpora"`` key.
 
 ### Deprecated resources
